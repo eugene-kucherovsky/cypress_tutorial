@@ -1,0 +1,7 @@
+.postButton {
+  background-color: #fff;
+}
+
+.postButton:hover {
+  background-color: #999;
+}
